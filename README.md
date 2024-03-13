@@ -32,6 +32,13 @@ Update `SUPABASE_PROJECT_URL` and `SUPABASE_ANON_KEY` in [supabase.tsx](app/supa
 
 Also, create `.env` file. See [.env.example](/.env.example) for an example.
 
+### Installation
+
+```bash
+pipenv install
+npm install
+```
+
 ### Dev
 
 Run the backend server:
